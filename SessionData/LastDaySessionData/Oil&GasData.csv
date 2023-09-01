@@ -1,0 +1,13 @@
+﻿Timestamp,EquipmentID,Location,Temperature,Pressure,FlowRate,Status
+31/08/23 10:15,1,Drilling Site A,120.5,250.2,500.3,Normal
+31/08/23 10:20,2,Refinery B,180.7,180.7,1000.0,Normal
+31/08/23 10:25,3,Transportation Hub C,85.3,320.1,750.5,Normal
+31/08/23 10:30,4,Production Facility D,150.2,210.5,900.7,Normal
+31/08/23 10:35,1,Drilling Site A,122.0,248.8,480.2,Normal
+31/08/23 10:40,2,Refinery B,183.8,182.1,980.6,Normal
+31/08/23 10:45,3,Transportation Hub C,86.7,315.5,700.2,Normal
+31/08/23 10:50,4,Production Facility D,149.7,211.8,910.2,Normal
+31/08/23 10:55,1,Drilling Site A,121.8,249.5,520.9,Normal
+31/08/23 11:00,2,Refinery B,182.5,181.2,950.7,Normal
+31/08/23 11:05,3,Transportation Hub C,87.9,317.8,720.1,Normal
+31/08/23 11:10,4,Production Facility D,150.5,209.6,890.4,Normal
